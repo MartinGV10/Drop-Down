@@ -1,0 +1,22 @@
+{
+  "name": "@martingv10/drop-down",
+  "version": "1.0.0",
+  "description": "Makes an HTML dropdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinGV10/Drop-Down.git"
+  },
+  "keywords": [
+    "dropdown"
+  ],
+  "author": "Martin Ganen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartinGV10/Drop-Down/issues"
+  },
+  "homepage": "https://github.com/MartinGV10/Drop-Down#readme"
+}
